@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS.SecurityRoleListGenerator", "LS.SecurityRoleListGenerator\LS.SecurityRoleListGenerator.csproj", "{FDF0042D-20DC-4D19-95DF-323E5DAA1002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS.SecurityTesting", "..\LS.SecurityTesting\LS.SecurityTesting.csproj", "{FD31A20C-B441-40B3-BBB1-E8C1369BAB3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF0042D-20DC-4D19-95DF-323E5DAA1002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF0042D-20DC-4D19-95DF-323E5DAA1002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF0042D-20DC-4D19-95DF-323E5DAA1002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF0042D-20DC-4D19-95DF-323E5DAA1002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD31A20C-B441-40B3-BBB1-E8C1369BAB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD31A20C-B441-40B3-BBB1-E8C1369BAB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD31A20C-B441-40B3-BBB1-E8C1369BAB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD31A20C-B441-40B3-BBB1-E8C1369BAB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B6284D-BF5D-472C-8195-A64B371F57C6}
+	EndGlobalSection
+EndGlobal
